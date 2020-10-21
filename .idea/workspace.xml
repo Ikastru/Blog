@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myblog:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lesson15.SpringMVCApp1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lesson16.SpringMVCAppJavaConfig" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lesson17.SpringControllersIntro" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f09c7a42-277e-4e53-90b8-e8fab4810668" name="Default Changelist" comment="Finished blog2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1j6Rr8MCpxarJ7IVpl1FEANsgXi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ikast\IdeaProjects\SpringCourse\myblog\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ikast\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f09c7a42-277e-4e53-90b8-e8fab4810668" name="Default Changelist" comment="" />
+      <created>1603122750398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603122750398</updated>
+      <workItem from="1603122753823" duration="14824000" />
+      <workItem from="1603152121762" duration="1821000" />
+      <workItem from="1603188515435" duration="9534000" />
+      <workItem from="1603206616370" duration="1989000" />
+      <workItem from="1603272947206" duration="6189000" />
+      <workItem from="1603280221323" duration="135000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished blog">
+      <created>1603279071629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603279071629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished blog2">
+      <created>1603279767552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603279767552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished blog" />
+    <MESSAGE value="Finished blog2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished blog2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="304" key="#Assign_Data_Sources" timestamp="1603196031712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="304" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1603196031712" />
+    <state x="543" y="318" key="#Glassfish_Server" timestamp="1603151003646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="318" key="#Glassfish_Server/0.0.1536.824@0.0.1536.824" timestamp="1603151003646" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603206963310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603206963310" />
+    <state x="495" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1603130144348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1603130144348" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1603280070205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603280070205" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603279831014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603279831014" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1603280132790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603280132790" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1603280132790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603280132790" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1603280132790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603280132790" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1603280132790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603280132790" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1603151378864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603151378864" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1603151378863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603151378863" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1603151378863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603151378863" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1603151378863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603151378863" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1603196858573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1603196858573" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603280355093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603280355093" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603278887146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603278887146" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603133483827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603133483827" />
+  </component>
+</project>
